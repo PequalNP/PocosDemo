@@ -1,0 +1,15 @@
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\bin\Debug\Pocos.dll.config
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\bin\Debug\Pocos.dll
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\bin\Debug\Pocos.pdb
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\bin\Debug\EntityFramework.dll
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\bin\Debug\EntityFramework.xml
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.csprojAssemblyReference.cache
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.csproj.CopyComplete
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.dll
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.pdb
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.Migrations.initial.resources
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.csproj.GenerateResource.cache
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.Migrations.AddAllEntity.resources
+C:\Users\Nkateko\Documents\projects\EFCode1stPocos\Pocos\obj\Debug\Pocos.Migrations.PlaceIDTypeFixed.resources
